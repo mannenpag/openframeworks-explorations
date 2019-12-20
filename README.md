@@ -1,3 +1,3 @@
 # openFrameworks explorations
 
-[Instagram Stries] (https://www.instagram.com/cgmedk/)
+[Instagram Stories](https://www.instagram.com/cgmedk/)
